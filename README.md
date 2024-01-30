@@ -22,12 +22,16 @@
   <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/sirmultiverse3592"/>
 </a>
 
-<a href="[https://twitter.com/sandevz](https://twitter.com/SirMultiverse)" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
+<a href="https://twitter.com/SirMultiverse" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white&link=https://twitter.com/SirMultiverse"/>
 </a>
 
 <a href="https://www.linkedin.com/in/viquitor/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
+
+<a href="https://www.instagram.com/jaoviquitor/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=gray&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaoviquitor/"/>
 </a>
 
 # My Skills
