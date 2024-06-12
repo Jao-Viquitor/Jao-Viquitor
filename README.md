@@ -7,7 +7,7 @@
     I'm studying <strong>software engineering</strong>.
 </p>
 <p align="left">
-    I'm focusing my studies on <strong>Laravel, Swift, Java Android e Kotlin</strong>.
+    I'm focusing my studies on <strong>Java Android and Spring, Laravel, Swift & Kotlin</strong>.
 </p>
 <p align="left">
  <strong>You can find me on:<strong>
