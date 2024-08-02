@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Jao-Viquitor" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-gray?style=flat-square&labelColor=white&logo=github&logoColor=gray" alt="GitHub Badge"/>
+  <a href="[https://github.com/Jao-Viquitor](https://resume-joao-victor.vercel.app/resume-joao-victor.pdf)" target="_blank">
+    <img src="https://img.shields.io/badge/-My_Resume-gray?style=flat-square&labelColor=white&logo=googledrive&logoColor=gray" alt="Resume Badge"/>
   </a>
   <a href="https://www.frontendmentor.io/profile/Jao-Viquitor" target="_blank">
     <img src="https://img.shields.io/badge/-Frontend_Mentor-gray?style=flat-square&labelColor=white&logo=frontendmentor&logoColor=gray" alt="Frontend Mentor Badge"/>
@@ -80,14 +80,20 @@
 
 # My Status
 <div>
-  <table style="margin: 0 auto;" align="center">
-    <tr>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jao-Viquitor&layout=compact&theme=react&count_private=true"/>
-      </td>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Jao-Viquitor&show_icons=true&theme=transparent"/>
-      </td>
-    </tr>
-  </table>
+<table style="margin: 0 auto;" align="center">
+  <tr>
+    <td>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Jao-Viquitor&show_icons=true&theme=transparent"/>
+    </td>
+    <td>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jao-Viquitor&layout=compact&theme=react&count_private=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="250px" src="https://github-readme-activity-graph.vercel.app/graph?username=Jao-Viquitor&theme=react"/>
+    </td>
+  </tr>
+</table>
+      
 </div>
