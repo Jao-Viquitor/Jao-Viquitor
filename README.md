@@ -15,7 +15,7 @@
   My important links
 </a>
 </p>
-
+       
 <div align="center">
   <a href="[https://github.com/Jao-Viquitor](https://resume-joao-victor.vercel.app/resume-joao-victor.pdf)" target="_blank">
     <img src="https://img.shields.io/badge/-My_Resume-gray?style=flat-square&labelColor=white&logo=googledrive&logoColor=gray" alt="Resume Badge"/>
@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/-Instagram-gray?style=flat-square&labelColor=white&logo=instagram&logoColor=gray" alt="Instagram Badge"/>
   </a>
 </div>
+
+## My Roadmap (started on 08/15/2024)
+[![roadmap.sh](https://roadmap.sh/card/wide/66be05f591320df4bde8ec55?variant=dark)](https://roadmap.sh)
 
 # My Skills
   
