@@ -38,7 +38,7 @@
 </div>
 
 ## My Roadmap (started on 08/15/2024)
-[![roadmap.sh](https://roadmap.sh/card/wide/66be05f591320df4bde8ec55?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/66be05f591320df4bde8ec55?variant=dark)](https://roadmap.sh)
 
 # My Skills
   
