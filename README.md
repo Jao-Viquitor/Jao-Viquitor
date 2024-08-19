@@ -10,7 +10,7 @@
                   |> Meteor.js
                   |> Tailwind
             |> Mobile Developer
-                  |> Java and Kotlin
+                  |> Java & Kotlin
                   |> Flutter
             |> Backend
                   |> Java
