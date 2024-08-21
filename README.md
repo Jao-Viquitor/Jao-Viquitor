@@ -1,4 +1,5 @@
       Hi, i'm Victor!
+      > contact me: victorsantos.ft18@gmail.com
 
       | Software Enginner
             |> Frontend Developer
