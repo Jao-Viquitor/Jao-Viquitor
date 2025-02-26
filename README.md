@@ -2,9 +2,6 @@
       > contact me: victorsantos.ft18@gmail.com
 
       | Software Enginner
-            |> Frontend Developer
-            |> Scrum Master
-            
       | Learning
             |> Web Developer
                   |> React
@@ -19,5 +16,3 @@
             |> English
 
       What do you mean you've never heard of me?
-      
-
